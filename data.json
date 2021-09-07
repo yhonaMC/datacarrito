@@ -118,13 +118,6 @@
             "precio": "10000",
             "img": "../img/libreria/remapapel.jpg",
             "categoria": "papeleria"
-        },
-        {
-            "id": 18,
-            "nombre": "Tijeras",
-            "precio": "1000",
-            "img": "../img/libreria/tijeras.png",
-            "categoria": "papeleria"
         }
     ]
 }
